@@ -8,7 +8,7 @@ This project takes a closer look at different SVM kernels like Linear, Polynomia
 
 - README.md — An overview of the project and a guide on how to use it.
 
-#What the Project Demonstrates
+# What the Project Demonstrates
 
 - Linear kernel: works well for straightforward, linearly separable data.
 
@@ -18,7 +18,7 @@ This project takes a closer look at different SVM kernels like Linear, Polynomia
 
 - Visual comparisons illustrate the effects of underfitting and overfitting.
 
-#Requirements
+# Requirements
 
 To get started, create a Python 3.8+ environment and install the following packages:
 
@@ -31,15 +31,15 @@ To get started, create a Python 3.8+ environment and install the following packa
 - notebook
 - jupyterlab (if needed)
 
-#How to Run
+# How to Run
 
 1. Run `pip install -r requirements.txt`
 2. Launch the notebook with `jupyter notebook likith_ML.ipynb`
 
-#Purpose
+# Purpose
 
 The goal is to offer a clear, visual insight into how choosing different kernels affects SVM classification, helping students and beginners develop a better understanding of model behavior.
 
-##Author
+# Author
 
 Likith Rathipinni
